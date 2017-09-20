@@ -15,9 +15,3 @@ Ubuntu Personalization
 	mv 'downloaded-logo-path' /usr/share/unity/icons/
 
 5.Play around with the unity tweak tool to get your desired theme..
-
-
-![alt text](https://drive.google.com/file/d/0B6tK150jyMyOaTFHelo2eVlBNFE/view?usp=sharing "My Desktop")
-
-
-![alt text](https://drive.google.com/file/d/0B6tK150jyMyOSjJnSWJ6MTVaRTg/view?usp=sharing "My Icons and Home button")
