@@ -17,4 +17,7 @@ Ubuntu Personalization
 5.Play around with the unity tweak tool to get your desired theme..
 
 
+![alt text](/home/aswinrprasad/Pictures/1.png "My Desktop")
 
+
+![alt text](/home/aswinrprasad/Pictures/3.png "My Icons and Home button")
